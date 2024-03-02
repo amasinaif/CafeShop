@@ -22,7 +22,6 @@ Table: Represents a table in the cafe shop, storing its unique ID and the number
 **Contributors**
 
 Amasi
-
 Fatima
 
 
