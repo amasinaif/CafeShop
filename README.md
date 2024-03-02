@@ -21,8 +21,7 @@ Table: Represents a table in the cafe shop, storing its unique ID and the number
 
 **Contributors**
 
-Amasi
-Fatima
+Amasi & Fatima
 
 
 Feel free to explore the codebase and make any modifications or improvements as needed!
